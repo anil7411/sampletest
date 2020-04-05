@@ -8,7 +8,7 @@ public class MyTest extends TestCase {
    // assigning the values
    protected void setUp(){
       value1 = 2;
-      value2 = 4;
+      value2 = 2;
    }
 
    // test method to add two values
